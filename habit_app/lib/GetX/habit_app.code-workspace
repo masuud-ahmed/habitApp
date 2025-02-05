@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "habit_app",
+			"path": "../.."
+		},
+		{
+			"name": "server",
+			"path": "../../../server"
+		}
+	],
+	"settings": {}
+}
